@@ -1,2 +1,3 @@
 # repository
-instrumente pentru gestiunea datelor
+
+Updated README with additional details.
